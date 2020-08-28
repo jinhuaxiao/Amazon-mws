@@ -1,4 +1,4 @@
-<?php namespace Sonnenglas\AmazonMws;
+<?php namespace Xiaojinhua\AmazonMws;
 
 use Config;
 use Iterator;

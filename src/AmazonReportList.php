@@ -1,6 +1,6 @@
-<?php namespace Sonnenglas\AmazonMws;
+<?php namespace Xiaojinhua\AmazonMws;
 
-use Sonnenglas\AmazonMws\AmazonReportsCore;
+use Xiaojinhua\AmazonMws\AmazonReportsCore;
 
 /**
  * Copyright 2013 CPI Group, LLC
